@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb35d8348e3eb4645a11164f33564923, type: 3}
+  m_Name: 5 - XXI
+  m_EditorClassIdentifier: 
+  m_sceneLines:
+  - Woah, what a ride.
+  - That was quite the exhibition!
+  - And I sure learnt a lot. Noice!
+  - I'd better go home.
+  - See you later, alligator.
